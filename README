@@ -10,7 +10,7 @@ I approached the problem by analyzing each data structure and determining their 
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
 
-Ensuring small details were accounted for like ensuring data loaded from files was validated correctly made all the difference. I overcame this by implementing file validations to check proper course numbering, correct formatting for titles and prerequisites, and error handling for missing or malformed data. I had to experiment with different sorting techniques and compare their preformance in terms of time complexity and memory efficiency.
+Ensuring small details were accounted for like confirming data loaded from files was validated correctly made all the difference. I overcame this by implementing file validations to check proper course numbering, correct formatting for titles and prerequisites, and error handling for missing or malformed data. I had to experiment with different sorting techniques and compare their preformance in terms of time complexity and memory efficiency.
 
 
 How has your work on this project expanded your approach to designing software and developing programs?
@@ -20,4 +20,4 @@ My approach towards designing software and developing programs has grown exponen
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
-Including proper comments within code and establishing a solid starting point with readable pseudocode helped me ensure my code was maintainable, readable, and adaptable. I also ensured my code had structure was each class and function was labeled. Checking for errors using input validation and file reading helped me make my system more adaptable. 
+Including proper comments within code and establishing a solid starting point with readable pseudocode helped me ensure my code was maintainable, readable, and adaptable. I also ensured my code had structure by labeling each class and function. Checking for errors using input validation and file reading helped me make my system more adaptable. 
