@@ -1,23 +1,23 @@
-What was the problem you were solving in the projects for this course?
+# What was the problem you were solving in the projects for this course?
 
 In these projects, I created a system to manage educational courses by storing course information like course number, titles, and prerequisites. The user was able to navigate throug a menu to search for courses. I analyzed three different data structures (Vectors, HashTables, and BSTs) along with the runtime and memory efficiency for each. I needed to find the most efficient data structure to store, navigate, and sort operations when working with multiple courses. 
 
 
-How did you approach the problem? Consider why data structures are important to understand.
+# How did you approach the problem? Consider why data structures are important to understand.
 
 I approached the problem by analyzing each data structure and determining their advantages and disadvantages. Looking at how each structure stored data, resizing features, search time, memory efficiency, and runtime was important. For example, vectors are efficient with dynamic resizing, a hashtable has quick lookup operations, and a BST sorts and searches quickly. Keeping which structure would be best with insertion, search, and sorting was key. 
 
 
-How did you overcome any roadblocks you encountered while going through the activities or project?
+# How did you overcome any roadblocks you encountered while going through the activities or project?
 
 Ensuring small details were accounted for like confirming data loaded from files was validated correctly made all the difference. I overcame this by implementing file validations to check proper course numbering, correct formatting for titles and prerequisites, and error handling for missing or malformed data. I had to experiment with different sorting techniques and compare their preformance in terms of time complexity and memory efficiency.
 
 
-How has your work on this project expanded your approach to designing software and developing programs?
+# How has your work on this project expanded your approach to designing software and developing programs?
 
 My approach towards designing software and developing programs has grown exponentially because of this project. I now understand three major data structures and how they work. I learned that maintainability, memory efficiency, and scalability all play a part in storing and accessing data. I am now able to design code that loads, searches, and sorts while optimizing time and space. 
 
 
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+# How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
 Including proper comments within code and establishing a solid starting point with readable pseudocode helped me ensure my code was maintainable, readable, and adaptable. I also ensured my code had structure by labeling each class and function. Checking for errors using input validation and file reading helped me make my system more adaptable. 
